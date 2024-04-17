@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
 <h1 align="center">Hi 👋, I'm Mohammed Tanzil Mohiuddin</h1>
-<h3 align="center">At times i wonder im a mystery to myself</h3>
+<h3 align="center">We've always defined ourselves by the ability to overcome the impossible.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammedTanzil1323&label=Profile%20views&color=0e75b6&style=flat" alt="MohammedTanzil1323" /> </p>
 
