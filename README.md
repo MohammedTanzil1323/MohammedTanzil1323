@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/artificial-intelligence-neural-network-gif-3329491906550140056">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
 <h1 align="center">Hi 👋, I'm Mohammed Tanzil Mohiuddin</h1>
 <h3 align="center">At times i wonder im a mystery to myself</h3>
