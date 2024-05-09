@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **tanzil211981@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iC4fmpgXpsVrrj5XgKBV6a2fd5Sq-5SC/view?usp=sharing).
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
