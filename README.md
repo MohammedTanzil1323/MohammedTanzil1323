@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohammedTanzil1323" alt="MohammedTanzil1323" /></a> </p>
 
 
-- 🌱 I’m currently learning **LLMs, RAG, llM finetuning  **
+- 🌱 I’m currently learning **LLMs, RAG, LLM finetuning  **
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
