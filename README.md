@@ -8,13 +8,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohammedTanzil1323" alt="MohammedTanzil1323" /></a> </p>
 
 
-- 🌱 I’m currently learning **LLMs, CI/CD pipeline, Model Pipelines, Deploy Pipelines.**
+- 🌱 I’m currently learning **LLMs, RAG, llM finetuning  **
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
 - 💬 Ask me about **Python | Machine Learning | Deep Learning | Computer Vision|Large Language Models**
 
-- 📫 How to reach me **tanzil211981@gmail.com**
+- 📫 How to reach me **tanzilmohiuddinm@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
